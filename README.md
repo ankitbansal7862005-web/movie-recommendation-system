@@ -2,7 +2,7 @@
 
 A content-based movie recommendation engine that suggests the top 10 most similar movies to a given title, using NLP-based text processing and TF-IDF + cosine similarity. Deployed as an interactive web app with Streamlit.
 
-**🔗 Live Demo:** https://movie-recommendation-system-ankit.streamlit.app/
+**🔗 Live Demo:** [https://movie-recommendation-system-ankit.streamlit.app/]
 **📁 Dataset:** ~50,000 movies (metadata: cast, crew, genres, keywords, overview)
 
 ---
