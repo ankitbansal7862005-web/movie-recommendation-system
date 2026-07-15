@@ -2,7 +2,7 @@
 
 A content-based movie recommendation engine that suggests the top 10 most similar movies to a given title, using NLP-based text processing and TF-IDF + cosine similarity. Deployed as an interactive web app with Streamlit.
 
-**🔗 Live Demo:** [Add your Streamlit link here]
+**🔗 Live Demo:** https://movie-recommendation-system-ankit.streamlit.app/
 **📁 Dataset:** ~50,000 movies (metadata: cast, crew, genres, keywords, overview)
 
 ---
@@ -63,7 +63,7 @@ A content-based movie recommendation engine that suggests the top 10 most simila
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python (version specified in `.python-version`)
+- Python (version specified in `3.11.9`)
 - A [TMDB API key](https://www.themoviedb.org/documentation/api)
 
 ### Installation
