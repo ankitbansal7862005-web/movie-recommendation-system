@@ -51,7 +51,7 @@ API: TMDB API (posters & movie metadata)
 🚀 Getting Started
 
  Prerequisites
-- Python (version specified in `.python-version`)
+- Python (version specified in `3.11.9`)
 - A [TMDB API key](https://www.themoviedb.org/documentation/api)
 
  Installation
